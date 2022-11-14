@@ -11,3 +11,5 @@ print("age id: ", id(age))
 age = "twenty three"
 print("\nnew age type: ", type(age))
 print("new age id: ", id(age))
+
+print(0.3+0.3+0.3)
